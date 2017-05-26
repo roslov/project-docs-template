@@ -1,3 +1,3 @@
 # ——— Project Documentation Template ———
 
-To access the documentation go to [wiki](wiki).
+To access the documentation go to [wiki](https://github.com/roslov/project-docs-template/wiki).
